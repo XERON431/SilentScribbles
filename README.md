@@ -6,5 +6,3 @@ is a platform that allows users to share their thoughts, opinions, and experienc
 [Siddhant Goyal](https://www.linkedin.com/in/siddhantgoyal2001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
-Acknowledgements
-Special thanks to the OpenAI team for their powerful API and to Cloudinary for enhancing the user experience.
